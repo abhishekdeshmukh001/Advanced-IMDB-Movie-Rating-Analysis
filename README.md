@@ -11,6 +11,8 @@ We will be using the following dataset:
 
 ### Link to Download Dataset : https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset/download
 
+---
+
 ### B. Advanced Visualization Techniques:
 In this project, I've applied advanced data visualization techniques such as:
 
